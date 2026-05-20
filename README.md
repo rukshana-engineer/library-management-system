@@ -29,3 +29,14 @@ A console-based Library Management System developed using C# to manage books, me
 1. Clone the repository
 ```bash
 git clone https://github.com/rukshana-engineer/library-management-system-csharp.git
+
+---
+## Open project in Visual Studio
+Run the program
+📚 Learning Goals
+
+This project helped me practice:
+
+Object Oriented Programming
+File handling
+Console UI logic
